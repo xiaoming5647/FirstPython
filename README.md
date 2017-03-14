@@ -1,0 +1,3 @@
+# FirstPython
+第一个Python程序
+利用Python爬去网站上的图片存在项目目录，Python开发环境使用xcode8.1
